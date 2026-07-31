@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋, I'm Aman Kumar
 
-<!--
-**AmanChy9155/AmanChy9155** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (Artificial Intelligence & Machine Learning)
 
-Here are some ideas to get you started:
+💻 Java Developer | Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning Data Structures & Algorithms, Next.js and System Design
+
+---
+
+## 🚀 Tech Stack
+
+- Java
+- SQL
+- HTML
+- CSS
+- JavaScript
+- React
+- Next.js
+- Git & GitHub
+
+---
+
+## 📌 Currently Working On
+
+- CareerPilot AI
+- Crime Reporting System
+- Codearena
+- DSA in Java
+- Portfolio Website
+
+---
+
+## 🎯 Goal
+
+Preparing for Software Engineer roles and building real-world projects.
+
+Thanks for visiting my profile! ⭐
